@@ -1654,3 +1654,60 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-16.10.48:989][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 688.047913
 [2025.12.10-16.10.49:156][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-16.10.49:156][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 688.197754, Update Interval: 344.215820
+[2025.12.10-16.14.22:580][388]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: SeekCallback: Failed to seek to Offset=0, Origin=0 seek disabled
+[2025.12.10-16.14.22:580][388]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9D4ABFF4-41DA-C6D5-DCA0-1990BD32C3D5%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.12.10-16.14.22:581][388]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 0 (Found bundle for host: 0xb01e18805d0 [serially])
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 6 (Closing connection)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9D4ABFF4-41DA-C6D5-DCA0-1990BD32C3D5%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 9 (Found bundle for host: 0xb01e18805d0 [serially])
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 10 (Re-using existing connection with host api.epicgames.dev)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 11 (We are completely uploaded and fine)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 12 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 13 (Connection died, retrying a fresh connect (retry count: 2))
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 14 (state.rewindbeforesend = TRUE)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 15 (Closing connection)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 16 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 17 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9D4ABFF4-41DA-C6D5-DCA0-1990BD32C3D5%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 18 (  Trying 54.160.190.213:443...)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 19 (Connected to api.epicgames.dev (54.160.190.213) port 443)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 20 (ALPN: curl offers http/1.1)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 21 (SSL reusing session ID)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 22 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 24 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 25 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 26 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 27 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 28 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 29 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 30 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 31 (ALPN: server accepted http/1.1)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 32 (Server certificate:)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 33 ( subject: CN=*.befa.live.use1a.on.epicgames.com)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 34 ( start date: Oct 28 00:00:00 2025 GMT)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 35 ( expire date: Oct 16 23:59:59 2026 GMT)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 36 ( subjectAltName: host "api.epicgames.dev" matched cert's "*.epicgames.dev")
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 37 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 38 ( SSL certificate verify ok.)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 39 (using HTTP/1.1)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 40 (seek callback returned error 2)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 41 (Closing connection)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: 00000B01DBE68400: libcurl info message cache 42 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.12.10-16.14.22:581][389]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9D4ABFF4-41DA-C6D5-DCA0-1990BD32C3D5%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.12.10-16.16.39:980][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1039.041382
+[2025.12.10-16.16.40:980][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.16.40:980][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1039.708374, Update Interval: 352.869659
+[2025.12.10-16.17.16:075][942]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.12.10-16.18.49:940][506]LogDirectoryWatcher: Display: A directory notification failed for 'D:/github Games/ProjectBlade/ProjectBlade/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.12.10-16.18.49:940][506]LogDirectoryWatcher: Display: A directory notification failed for 'D:/github Games/ProjectBlade/ProjectBlade/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.12.10-16.18.49:940][506]LogDirectoryWatcher: Display: A directory notification failed for 'D:/github Games/ProjectBlade/ProjectBlade/Content/Developers/rahul/Collections/' because it could not be accessed. Aborting watch request...
+[2025.12.10-16.22.47:346][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1406.408569
+[2025.12.10-16.22.48:346][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.22.48:347][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1407.076538, Update Interval: 344.457520
