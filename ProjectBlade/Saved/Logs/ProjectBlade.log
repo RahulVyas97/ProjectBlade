@@ -1711,3 +1711,155 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-16.22.47:346][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1406.408569
 [2025.12.10-16.22.48:346][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-16.22.48:347][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1407.076538, Update Interval: 344.457520
+[2025.12.10-16.28.56:396][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1775.457886
+[2025.12.10-16.28.57:396][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.28.57:396][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1776.125122, Update Interval: 341.579041
+[2025.12.10-16.35.09:791][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2148.850098
+[2025.12.10-16.35.09:941][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.35.09:941][121]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2148.983887, Update Interval: 337.777649
+[2025.12.10-16.35.48:131][118]LogSlate: Took 0.001181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.10-16.35.48:830][119]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-16.35.49:533][119]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-16.35.49:533][119]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-16.35.50:107][120]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-16.35.50:501][120]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-16.35.50:501][120]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-16.35.50:555][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.35.50:648][121]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.35.50:652][121]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right] ([1] browsable assets)...
+[2025.12.10-16.35.50:652][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right]
+[2025.12.10-16.35.50:695][121]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right
+[2025.12.10-16.35.50:696][121]LogSavePackage: Moving 'D:/github Games/ProjectBlade/ProjectBlade/Saved/anim_Climb_Down_Right78A5F8194E7CC78B7FE4B7A3C69F4BCF.tmp' to 'D:/github Games/ProjectBlade/ProjectBlade/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset'
+[2025.12.10-16.35.50:711][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left] ([1] browsable assets)...
+[2025.12.10-16.35.50:751][121]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.12.10-16.35.50:927][121]LogAnimationCompression: Display: Storing compressed animation data for /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.anim_Climb_Up_Left, at AnimationSequence/b19db33e05db7fd6db895169369c62652d299d3c
+[2025.12.10-16.35.50:979][121]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.anim_Climb_Up_Left]
+[2025.12.10-16.35.50:979][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left]
+[2025.12.10-16.35.50:999][121]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left
+[2025.12.10-16.35.50:999][121]LogSavePackage: Moving 'D:/github Games/ProjectBlade/ProjectBlade/Saved/anim_Climb_Up_Left527BD5BC4230B5E4044347AB801710C2.tmp' to 'D:/github Games/ProjectBlade/ProjectBlade/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset'
+[2025.12.10-16.35.51:015][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 460.047 ms (total: 1.19 sec)
+[2025.12.10-16.35.51:099][122]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.10-16.35.51:099][122]LogContentValidation: Enabled validators:
+[2025.12.10-16.35.51:100][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.35.51:100][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.35.51:100][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.35.51:100][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.35.51:100][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.35.51:100][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.35.51:102][122]AssetCheck: /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right Validating asset
+[2025.12.10-16.35.51:103][122]AssetCheck: /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left Validating asset
+[2025.12.10-16.35.54:020][284]AssetReimport: Reimported asset anim_Climb_Down_Right from D:/github Games/ProjectBlade/ProjectBlade/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climbing_Down_Right.fbx.
+[2025.12.10-16.35.54:020][284]AssetReimport: Reimported asset anim_Climb_Up_Left from D:/github Games/ProjectBlade/ProjectBlade/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climbing_Up_Left.fbx.
+[2025.12.10-16.37.10:056][273]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.10:087][275]LogStreaming: Display: FlushAsyncLoading(418): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.12:859][437]LogStreaming: Display: FlushAsyncLoading(422): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.13:586][475]LogStreaming: Display: FlushAsyncLoading(425): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.13:594][475]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down.anim_Climb_Down (Required Memory Estimate: 26.01 MB)
+[2025.12.10-16.37.13:728][475]LogAnimationCompression: Display: Storing compressed animation data for /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down.anim_Climb_Down, at AnimationSequence/006a1176aec03a86ed0e56d2ca77da71372997d8
+[2025.12.10-16.37.13:737][475]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down.anim_Climb_Down
+[2025.12.10-16.37.13:833][475]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.10-16.37.13:899][475]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.12.10-16.37.13:926][475]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.12.10-16.37.14:001][475]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.12.10-16.37.14:002][475]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.12.10-16.37.14:028][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.10-16.37.14:590][475]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.10-16.37.15:003][475]LogSlate: Took 0.010788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.10-16.37.15:027][475]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.12.10-16.37.15:041][475]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.10-16.37.15:133][475]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.18:382][648]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.10-16.37.18:456][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.10-16.37.18:924][673]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.18:931][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.18:962][673]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.18:962][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.19:021][673]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.19:021][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.19:372][673]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2025.12.10-16.37.23:953][939]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.23:961][939]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/WallChange/anim_Wall_Jump_Out.anim_Wall_Jump_Out (Required Memory Estimate: 27.08 MB)
+[2025.12.10-16.37.24:091][939]LogAnimationCompression: Display: Storing compressed animation data for /Game/FreeAnimationLibrary/Animations/Climbing_Animations/WallChange/anim_Wall_Jump_Out.anim_Wall_Jump_Out, at AnimationSequence/d30e9504fe4aeb39ca4b8f79ebdbc815232cb0ef
+[2025.12.10-16.37.24:093][939]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/WallChange/anim_Wall_Jump_Out.anim_Wall_Jump_Out
+[2025.12.10-16.37.24:094][939]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.10-16.37.24:101][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.10-16.37.24:352][939]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.10-16.37.24:606][939]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.10-16.37.27:674][111]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.27:674][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.27:680][111]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.27:680][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.27:710][111]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.27:710][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.27:738][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.10-16.37.44:983][137]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.37.44:995][137]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FreeAnimationLibrary/Animations/Slide/anim_Slide_L.anim_Slide_L (Required Memory Estimate: 12.90 MB)
+[2025.12.10-16.37.45:072][137]LogAnimationCompression: Display: Storing compressed animation data for /Game/FreeAnimationLibrary/Animations/Slide/anim_Slide_L.anim_Slide_L, at AnimationSequence/04d902f603c059d008c6d321dff2882c420fa843
+[2025.12.10-16.37.45:073][137]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FreeAnimationLibrary/Animations/Slide/anim_Slide_L.anim_Slide_L
+[2025.12.10-16.37.45:074][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.10-16.37.45:082][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.10-16.37.45:319][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.12.10-16.37.45:624][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.12.10-16.37.50:201][397]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.50:201][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.50:209][397]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.50:209][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.50:240][397]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.37.50:240][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.37.50:266][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.10-16.38.32:289][356]LogShaderCompilers: Display: ================================================
+[2025.12.10-16.38.32:289][356]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-16.38.32:289][356]LogShaderCompilers: Display: Total job queries 179, among them cache hits 12 (6.70%), DDC hits 155 (86.59%), Duplicates 2 (1.12%)
+[2025.12.10-16.38.32:289][356]LogShaderCompilers: Display: Tracking 165 distinct input hashes that result in 149 distinct outputs (90.30%)
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: RAM used: 119.23 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Shaders Compiled: 10
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 2.22 s
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Job execution time: average 2.01 s, max 2.43 s
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Job life time (pending + execution): average 2.48 s, max 3.16
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Shader code size: average 7.311 KiB, min 4.113 KiB, max 11.129 KiB
+[2025.12.10-16.38.32:295][356]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.17 s
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.29%
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Total thread time: 6.015 s
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Total thread preprocess time: 4.897 s
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Percentage time preprocessing: 81.40%
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Effective parallelization: 1.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.87 sec, max 0.89 sec, min 0.86 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.69 sec, max 0.69 sec, min 0.68 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.53 sec, max 0.56 sec, min 0.49 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.47 sec, max 0.48 sec, min 0.46 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.46 sec, max 0.47 sec, min 0.44 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 29.01% of total time (compiled    2 times, average 0.87 sec, max 0.89 sec, min 0.86 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.80% of total time (compiled    2 times, average 0.69 sec, max 0.69 sec, min 0.68 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.47% of total time (compiled    2 times, average 0.53 sec, max 0.56 sec, min 0.49 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.58% of total time (compiled    2 times, average 0.47 sec, max 0.48 sec, min 0.46 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.14% of total time (compiled    2 times, average 0.46 sec, max 0.47 sec, min 0.44 sec)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Materials Translated:    133
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: Material Cache Hits: 25 (19%)
+[2025.12.10-16.38.32:296][356]LogShaderCompilers: Display: ================================================
+[2025.12.10-16.38.36:656][618]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.38.36:664][618]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Right.anim_Climb_Right (Required Memory Estimate: 18.78 MB)
+[2025.12.10-16.38.36:750][618]LogAnimationCompression: Display: Storing compressed animation data for /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Right.anim_Climb_Right, at AnimationSequence/7b83688d2c09395f5caefc9352df857d9eab34d9
+[2025.12.10-16.38.36:752][618]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Right.anim_Climb_Right
+[2025.12.10-16.38.36:752][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.12.10-16.38.36:795][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.10-16.38.37:039][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.12.10-16.38.37:295][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.10-16.38.39:703][751]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.38.39:703][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.38.39:710][751]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.38.39:710][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.38.39:742][751]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.38.39:742][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.38.39:770][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms

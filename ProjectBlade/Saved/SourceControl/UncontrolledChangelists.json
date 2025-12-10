@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/github Games/ProjectBlade/ProjectBlade/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/github Games/ProjectBlade/ProjectBlade/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/github Games/ProjectBlade/ProjectBlade/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"D:/github Games/ProjectBlade/ProjectBlade/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset"
 			]
 		}
 	]
