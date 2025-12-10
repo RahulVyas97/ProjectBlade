@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\unrealeditor\\inc\\projectblade\\uht\\projectblade.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\x64\\projectbladeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectblade\\definitions.projectblade.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\github Games\\ProjectBlade\\ProjectBlade\\Source\\ProjectBlade\\ProjectBlade.Build.cs",
+		"D:\\github Games\\ProjectBlade\\ProjectBlade\\Source\\ProjectBlade.Target.cs",
+		"D:\\github Games\\ProjectBlade\\ProjectBlade\\Source\\ProjectBladeEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

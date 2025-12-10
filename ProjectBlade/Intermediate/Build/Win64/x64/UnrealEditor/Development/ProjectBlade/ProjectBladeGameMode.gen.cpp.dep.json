@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\unrealeditor\\inc\\projectblade\\uht\\projectbladegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\x64\\projectbladeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectblade\\definitions.projectblade.h",
+            "d:\\github games\\projectblade\\projectblade\\source\\projectblade\\projectbladegamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\github games\\projectblade\\projectblade\\intermediate\\build\\win64\\unrealeditor\\inc\\projectblade\\uht\\projectbladegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
