@@ -2379,3 +2379,1318 @@ FPackageName: Skipped package /Game/ParagonPhase/Characters/Heroes/Phase/Animati
 	WI_UnitBattleHUD_C /Engine/Transient.World_15:WI_UnitBattleHUD_C_26
 	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD_C:ExecuteUbergraph_WI_UnitBattleHUD:0050
 [2026.04.07-13.58.54:937][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.07-14.03.41:826][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.04.07-14.03.42:252][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.07-14.03.42:293][700]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD] ([2] browsable assets)...
+[2026.04.07-14.03.42:295][700]LogScript: Warning: Accessed None trying to read property Unit
+	WI_UnitBattleHUD_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:WI_UnitBattleHUD_C_4
+	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD_C:ExecuteUbergraph_WI_UnitBattleHUD:007A
+[2026.04.07-14.03.42:303][700]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD]
+[2026.04.07-14.03.42:303][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD]
+[2026.04.07-14.03.42:314][700]LogSavePackage: Moving output files for package: /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD
+[2026.04.07-14.03.42:314][700]LogSavePackage: Moving 'D:/github Games/ProjectBlade/ProjectBlade/Saved/WI_UnitBattleHUDAF324F554886E2546E0EAF8BBF70E353.tmp' to 'D:/github Games/ProjectBlade/ProjectBlade/Content/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.uasset'
+[2026.04.07-14.03.42:324][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.859 ms (total: 1.19 sec)
+[2026.04.07-14.03.42:362][700]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.07-14.03.42:362][700]LogContentValidation: Enabled validators:
+[2026.04.07-14.03.42:363][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.07-14.03.42:363][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.07-14.03.42:363][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.07-14.03.42:363][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.07-14.03.42:363][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.07-14.03.42:363][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.07-14.03.42:365][700]AssetCheck: /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD Validating asset
+[2026.04.07-14.03.58:045][804]LogScript: Warning: Accessed None trying to read property Unit
+	WI_TargetsWindowSlot_C /Engine/Transient.World_19:WI_TargetsWindowSlot_C_3
+	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindowSlot.WI_TargetsWindowSlot_C:ExecuteUbergraph_WI_TargetsWindowSlot:003A
+[2026.04.07-14.04.29:106][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2773.718994
+[2026.04.07-14.04.29:288][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.07-14.04.29:288][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2773.885742, Update Interval: 319.371307
+[2026.04.07-14.04.49:063][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.04.07-14.04.51:142][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.07-14.04.51:173][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindow] ([2] browsable assets)...
+[2026.04.07-14.04.51:182][330]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindow.WI_TargetsWindow]
+[2026.04.07-14.04.51:182][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindow]
+[2026.04.07-14.04.51:191][330]LogSavePackage: Moving output files for package: /Game/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindow
+[2026.04.07-14.04.51:191][330]LogSavePackage: Moving 'D:/github Games/ProjectBlade/ProjectBlade/Saved/WI_TargetsWindowFA8FD9C743AC791BC75E54ADC3AA18B2.tmp' to 'D:/github Games/ProjectBlade/ProjectBlade/Content/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindow.uasset'
+[2026.04.07-14.04.51:199][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.266 ms (total: 1.25 sec)
+[2026.04.07-14.04.51:233][330]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.07-14.04.51:233][330]LogContentValidation: Enabled validators:
+[2026.04.07-14.04.51:233][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.07-14.04.51:233][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.07-14.04.51:233][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.07-14.04.51:233][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.07-14.04.51:233][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.07-14.04.51:233][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.07-14.04.51:233][330]AssetCheck: /Game/TurnBased/Foundational_Components/UI/Widgets/WI_TargetsWindow Validating asset
+[2026.04.07-14.07.23:675][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.04.07-14.07.24:313][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.07-14.07.24:347][971]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD] ([2] browsable assets)...
+[2026.04.07-14.07.24:349][971]LogScript: Warning: Accessed None trying to read property Unit
+	WI_UnitBattleHUD_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:WI_UnitBattleHUD_C_5
+	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD_C:ExecuteUbergraph_WI_UnitBattleHUD:0050
+[2026.04.07-14.07.24:359][971]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD]
+[2026.04.07-14.07.24:359][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD]
+[2026.04.07-14.07.24:371][971]LogSavePackage: Moving output files for package: /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD
+[2026.04.07-14.07.24:371][971]LogSavePackage: Moving 'D:/github Games/ProjectBlade/ProjectBlade/Saved/WI_UnitBattleHUD58FF18D24A511C88689D9FBBDC326D68.tmp' to 'D:/github Games/ProjectBlade/ProjectBlade/Content/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.uasset'
+[2026.04.07-14.07.24:380][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.505 ms (total: 1.32 sec)
+[2026.04.07-14.07.24:415][971]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.07-14.07.24:415][971]LogContentValidation: Enabled validators:
+[2026.04.07-14.07.24:415][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.07-14.07.24:415][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.07-14.07.24:415][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.07-14.07.24:415][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.07-14.07.24:415][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.07-14.07.24:415][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.07-14.07.24:417][971]AssetCheck: /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD Validating asset
+[2026.04.07-14.07.52:485][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.07-14.07.52:492][187]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.07.52:492][187]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.07.52:494][187]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.742 ms (total: 14.284 ms)
+[2026.04.07-14.07.52:494][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.07.52:494][187]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.07.52:497][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003468s)
+[2026.04.07-14.07.52:497][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003507s)
+[2026.04.07-14.07.52:527][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.04.07-14.07.52:531][187]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.07.52:532][187]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.07.52:534][187]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.07.52:534][187]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.07.52:534][187]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.07.52:535][187]LogWorldPartition: Display: WorldPartition initialize took 1.230 ms (total: 8.65 sec)
+[2026.04.07-14.07.52:535][187]LogPlayLevel: PIE: World Init took: (0.003460s)
+[2026.04.07-14.07.52:536][187]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.07.52:536][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.07.52:536][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.07.52:536][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.07.52:536][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.07.52:536][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.07.52:539][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.07.52:564][187]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.07.52:564][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.07.52:564][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.07.52:564][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.07.52:566][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.07-14.07.52:566][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.07-14.07.52:568][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.07-14.07.52:568][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.07-14.07.52:568][187]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.07-14.07.52:568][187]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.07.52:568][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.07-14.07.52:574][187]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.07.52:575][187]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.07.52
+[2026.04.07-14.07.52:575][187]LogWorld: Bringing up level for play took: 0.001317
+[2026.04.07-14.07.52:578][187]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.04.07-14.07.52:580][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.07.52:580][187]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.07.52:580][187]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.07.52:584][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.07.52:584][187]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.07.52:585][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.07.52:585][187]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.07.52:586][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.07.52:586][187]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.07.52:588][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.07.52:588][187]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.07.52:589][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.07.52:589][187]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.07.52:589][187]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.07.52:591][187]PIE: Server logged in
+[2026.04.07-14.07.52:594][187]PIE: Play in editor total start time 0.102 seconds.
+[2026.04.07-14.07.55:516][271]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.07.55:516][271]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.07.55:516][271]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.07.55:516][271]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.07.55:516][271]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.07.55:516][271]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.03:178][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.08.03:178][345]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.08.03:178][345]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.08.03:179][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.08.03:179][345]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.08.03:390][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.08.03:406][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.08.03:448][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.07-14.08.03:448][345]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.07-14.08.03:448][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.04.07-14.08.03:451][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.04.07-14.08.03:456][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.08.03:461][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.04.07-14.08.03:498][346]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.04.07-14.08.04:681][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.07-14.08.04:689][356]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.08.04:689][356]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.08.04:691][356]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.291 ms (total: 16.576 ms)
+[2026.04.07-14.08.04:692][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.08.04:692][356]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.08.04:697][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004093s)
+[2026.04.07-14.08.04:697][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004155s)
+[2026.04.07-14.08.04:729][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.07-14.08.04:731][356]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.08.04:734][356]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.08.04:734][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.08.04:734][356]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.08.04:734][356]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.08.04:734][356]LogWorldPartition: Display: WorldPartition initialize took 1.087 ms (total: 8.65 sec)
+[2026.04.07-14.08.04:734][356]LogPlayLevel: PIE: World Init took: (0.003347s)
+[2026.04.07-14.08.04:735][356]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.08.04:735][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.08.04:735][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.08.04:735][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.08.04:735][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.08.04:735][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.08.04:738][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.08.04:761][356]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.08.04:761][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.08.04:761][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.08.04:761][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.08.04:764][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.07-14.08.04:764][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.07-14.08.04:766][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.07-14.08.04:766][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.07-14.08.04:766][356]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.07-14.08.04:766][356]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.08.04:767][356]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.07-14.08.04:980][356]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.08.04:980][356]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.08.04
+[2026.04.07-14.08.04:981][356]LogWorld: Bringing up level for play took: 0.001293
+[2026.04.07-14.08.04:983][356]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.04.07-14.08.04:986][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.04:986][356]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.08.04:986][356]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.08.04:989][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.04:989][356]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.08.04:990][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.04:990][356]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.08.04:991][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.04:991][356]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.08.04:992][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.04:992][356]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.08.04:993][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.04:993][356]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.08.04:993][356]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.08.04:996][356]PIE: Server logged in
+[2026.04.07-14.08.04:998][356]PIE: Play in editor total start time 0.309 seconds.
+[2026.04.07-14.08.06:894][441]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.06:894][441]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.06:894][441]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.06:894][441]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.06:894][441]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.06:894][441]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.11:147][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.08.11:147][493]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.08.11:147][493]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.08.11:148][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.08.11:148][493]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.08.11:412][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.08.11:421][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.08.11:460][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.08.11:460][493]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.07-14.08.11:460][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.04.07-14.08.11:463][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.04.07-14.08.11:474][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.04.07-14.08.11:508][494]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.04.07-14.08.14:972][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.07-14.08.14:979][604]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.08.14:979][604]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.08.14:981][604]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.001 ms (total: 18.578 ms)
+[2026.04.07-14.08.14:982][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.08.14:982][604]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.08.14:985][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002990s)
+[2026.04.07-14.08.14:985][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003019s)
+[2026.04.07-14.08.15:012][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.07-14.08.15:014][604]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.08.15:015][604]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.08.15:015][604]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.08.15:015][604]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.08.15:015][604]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.08.15:016][604]LogWorldPartition: Display: WorldPartition initialize took 1.107 ms (total: 8.65 sec)
+[2026.04.07-14.08.15:016][604]LogPlayLevel: PIE: World Init took: (0.002839s)
+[2026.04.07-14.08.15:017][604]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.08.15:017][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.08.15:017][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.08.15:017][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.08.15:017][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.08.15:017][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.08.15:019][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.08.15:043][604]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.08.15:043][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.08.15:043][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.08.15:043][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.08.15:044][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.07-14.08.15:044][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.07-14.08.15:047][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.07-14.08.15:047][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.07-14.08.15:047][604]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.07-14.08.15:047][604]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.08.15:047][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.07-14.08.15:050][604]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.08.15:051][604]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.08.15
+[2026.04.07-14.08.15:052][604]LogWorld: Bringing up level for play took: 0.001102
+[2026.04.07-14.08.15:054][604]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.04.07-14.08.15:057][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.15:057][604]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.08.15:057][604]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.08.15:060][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.15:060][604]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.08.15:060][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.15:060][604]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.08.15:061][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.15:061][604]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.08.15:062][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.15:062][604]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.08.15:063][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.08.15:063][604]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.08.15:063][604]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.08.15:066][604]PIE: Server logged in
+[2026.04.07-14.08.15:068][604]PIE: Play in editor total start time 0.088 seconds.
+[2026.04.07-14.08.17:313][713]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.17:313][713]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.17:313][713]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.17:313][713]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.17:313][713]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.17:313][713]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.08.33:166][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.08.33:166][655]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.08.33:166][655]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.08.33:168][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.08.33:168][655]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.08.33:172][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.08.33:179][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.08.33:209][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.08.33:209][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.07-14.08.33:209][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.04.07-14.08.33:212][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.04.07-14.08.33:224][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.04.07-14.08.33:256][656]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.04.07-14.10.04:128][ 92]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.07-14.10.04:135][ 92]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.10.04:135][ 92]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.10.04:136][ 92]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.488 ms (total: 20.067 ms)
+[2026.04.07-14.10.04:136][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.10.04:136][ 92]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.10.04:139][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002894s)
+[2026.04.07-14.10.04:139][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002925s)
+[2026.04.07-14.10.04:167][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.04.07-14.10.04:169][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.10.04:170][ 92]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.10.04:171][ 92]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.10.04:171][ 92]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.10.04:171][ 92]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.10.04:172][ 92]LogWorldPartition: Display: WorldPartition initialize took 1.206 ms (total: 8.65 sec)
+[2026.04.07-14.10.04:172][ 92]LogPlayLevel: PIE: World Init took: (0.003065s)
+[2026.04.07-14.10.04:173][ 92]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.10.04:173][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.10.04:173][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.10.04:173][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.10.04:173][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.10.04:173][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.10.04:176][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.10.04:199][ 92]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.10.04:200][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.10.04:200][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.10.04:200][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.10.04:200][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.07-14.10.04:202][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.07-14.10.04:204][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.07-14.10.04:204][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.07-14.10.04:204][ 92]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.07-14.10.04:204][ 92]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.10.04:204][ 92]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.07-14.10.04:208][ 92]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.10.04:209][ 92]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.10.04
+[2026.04.07-14.10.04:209][ 92]LogWorld: Bringing up level for play took: 0.001085
+[2026.04.07-14.10.04:213][ 92]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.04.07-14.10.04:215][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.04:215][ 92]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.10.04:215][ 92]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.10.04:217][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.04:218][ 92]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.10.04:219][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.04:219][ 92]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.10.04:220][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.04:220][ 92]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.10.04:221][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.04:221][ 92]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.10.04:223][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.04:223][ 92]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.10.04:223][ 92]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.10.04:226][ 92]PIE: Server logged in
+[2026.04.07-14.10.04:227][ 92]PIE: Play in editor total start time 0.093 seconds.
+[2026.04.07-14.10.06:479][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.06:479][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.06:479][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.06:479][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.06:479][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.06:479][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.11:293][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.10.11:293][487]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.10.11:293][487]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.10.11:294][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.10.11:294][487]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.10.11:299][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.10.11:313][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.10.11:346][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.10.11:346][487]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.07-14.10.11:346][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.04.07-14.10.11:349][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.04.07-14.10.11:359][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.04.07-14.10.11:393][488]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.04.07-14.10.43:520][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3148.128662
+[2026.04.07-14.10.44:520][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.07-14.10.44:520][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3148.795654, Update Interval: 331.198456
+[2026.04.07-14.10.47:226][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.07-14.10.47:232][651]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.10.47:232][651]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.10.47:234][651]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.576 ms (total: 21.643 ms)
+[2026.04.07-14.10.47:234][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.10.47:234][651]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.10.47:238][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003441s)
+[2026.04.07-14.10.47:238][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003475s)
+[2026.04.07-14.10.47:271][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.04.07-14.10.47:273][651]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.10.47:276][651]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.10.47:276][651]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.10.47:276][651]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.10.47:276][651]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.10.47:277][651]LogWorldPartition: Display: WorldPartition initialize took 1.462 ms (total: 8.65 sec)
+[2026.04.07-14.10.47:277][651]LogPlayLevel: PIE: World Init took: (0.003880s)
+[2026.04.07-14.10.47:278][651]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.10.47:278][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.10.47:278][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.10.47:278][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.10.47:278][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.10.47:278][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.10.47:281][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.10.47:307][651]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.10.47:307][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.10.47:307][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.10.47:307][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.10.47:308][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.04.07-14.10.47:309][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.04.07-14.10.47:312][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.04.07-14.10.47:312][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.04.07-14.10.47:312][651]LogInit: FAudioDevice initialized with ID 11.
+[2026.04.07-14.10.47:312][651]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.10.47:312][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.07-14.10.47:316][651]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.10.47:317][651]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.10.47
+[2026.04.07-14.10.47:318][651]LogWorld: Bringing up level for play took: 0.001260
+[2026.04.07-14.10.47:321][651]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.04.07-14.10.47:323][651]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.47:323][651]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.10.47:323][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.10.47:326][651]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.47:326][651]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.10.47:328][651]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.47:328][651]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.10.47:329][651]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.47:329][651]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.10.47:330][651]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.47:330][651]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.10.47:331][651]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.10.47:331][651]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.10.47:331][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.10.47:334][651]PIE: Server logged in
+[2026.04.07-14.10.47:336][651]PIE: Play in editor total start time 0.103 seconds.
+[2026.04.07-14.10.49:565][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.49:565][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.49:565][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.49:565][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.49:565][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.49:565][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.10.54:022][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.10.54:022][  1]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.10.54:022][  1]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.10.54:024][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.10.54:024][  1]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.10.54:029][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.10.54:037][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.10.54:067][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.10.54:067][  1]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.07-14.10.54:067][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.04.07-14.10.54:069][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.04.07-14.10.54:080][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.04.07-14.10.54:113][  2]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.04.07-14.12.15:392][589]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.07-14.12.15:399][589]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.12.15:400][589]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.12.15:401][589]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.558 ms (total: 23.201 ms)
+[2026.04.07-14.12.15:401][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.12.15:401][589]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.12.15:404][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2026.04.07-14.12.15:404][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003104s)
+[2026.04.07-14.12.15:433][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.04.07-14.12.15:435][589]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.12.15:437][589]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.12.15:437][589]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.12.15:437][589]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.12.15:437][589]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.12.15:439][589]LogWorldPartition: Display: WorldPartition initialize took 1.094 ms (total: 8.65 sec)
+[2026.04.07-14.12.15:439][589]LogPlayLevel: PIE: World Init took: (0.002955s)
+[2026.04.07-14.12.15:439][589]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.12.15:439][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.12.15:439][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.12.15:439][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.12.15:439][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.12.15:440][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.12.15:443][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.12.15:467][589]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.12.15:467][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.12.15:467][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.12.15:467][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.12.15:468][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.04.07-14.12.15:468][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.04.07-14.12.15:471][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.04.07-14.12.15:471][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.04.07-14.12.15:471][589]LogInit: FAudioDevice initialized with ID 12.
+[2026.04.07-14.12.15:471][589]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.12.15:471][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.07-14.12.15:475][589]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.12.15:477][589]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.12.15
+[2026.04.07-14.12.15:477][589]LogWorld: Bringing up level for play took: 0.001314
+[2026.04.07-14.12.15:479][589]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.04.07-14.12.15:480][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.12.15:480][589]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.12.15:481][589]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.12.15:484][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.12.15:484][589]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.12.15:485][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.12.15:485][589]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.12.15:486][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.12.15:486][589]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.12.15:487][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.12.15:487][589]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.12.15:488][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.12.15:488][589]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.12.15:488][589]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.12.15:491][589]PIE: Server logged in
+[2026.04.07-14.12.15:492][589]PIE: Play in editor total start time 0.093 seconds.
+[2026.04.07-14.12.17:736][715]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.12.17:736][715]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.12.17:736][715]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.12.17:736][715]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.12.17:736][715]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.12.17:736][715]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.12.24:630][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.12.24:630][126]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.12.24:630][126]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.12.24:631][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.12.24:631][126]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.12.24:636][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.12.24:644][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.12.24:673][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.12.24:673][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.07-14.12.24:674][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.04.07-14.12.24:676][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.04.07-14.12.24:685][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.04.07-14.12.24:715][127]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.04.07-14.13.14:025][ 76]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.07-14.13.22:754][586]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.13.22:754][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.13.22:757][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.944 ms (total: 25.146 ms)
+[2026.04.07-14.13.22:757][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.13.22:757][586]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.13.22:760][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003192s)
+[2026.04.07-14.13.22:761][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003227s)
+[2026.04.07-14.13.22:794][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.04.07-14.13.22:796][586]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.13.22:799][586]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.13.22:799][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.13.22:799][586]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.13.22:799][586]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.13.22:800][586]LogWorldPartition: Display: WorldPartition initialize took 1.241 ms (total: 8.65 sec)
+[2026.04.07-14.13.22:800][586]LogPlayLevel: PIE: World Init took: (0.003820s)
+[2026.04.07-14.13.22:801][586]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.13.22:802][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.13.22:802][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.13.22:802][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.13.22:802][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.13.22:802][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.13.22:805][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.13.22:831][586]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.13.22:831][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.13.22:832][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.13.22:832][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.13.22:832][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.04.07-14.13.22:832][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.04.07-14.13.22:834][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.04.07-14.13.22:834][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.04.07-14.13.22:834][586]LogInit: FAudioDevice initialized with ID 13.
+[2026.04.07-14.13.22:835][586]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.13.22:835][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.07-14.13.22:864][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.13.22:865][586]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.13.22:867][586]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.13.22
+[2026.04.07-14.13.22:867][586]LogWorld: Bringing up level for play took: 0.001668
+[2026.04.07-14.13.22:871][586]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.07-14.13.22:873][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.22:873][586]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.13.22:873][586]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.13.22:877][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.22:877][586]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.13.22:878][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.22:878][586]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.13.22:881][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.22:881][586]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.13.22:882][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.22:882][586]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.13.22:883][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.22:883][586]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.13.22:883][586]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.13.22:891][586]PIE: Server logged in
+[2026.04.07-14.13.22:895][586]PIE: Play in editor total start time 0.14 seconds.
+[2026.04.07-14.13.25:081][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.25:081][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.25:081][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.25:081][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.25:081][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.25:081][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.25:392][672]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.07-14.13.26:675][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_MASK03.T_Khaimera_WeaponLoins_MASK03 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.27:109][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Ghost_Mask01.T_Khaimera_Ghost_Mask01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.27:327][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_MASK_04.T_Khaimera_WeaponLoins_MASK_04 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Final
+[2026.04.07-14.13.27:734][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Skins/Tier2/GruxPelt/Textures/T_Khaimera_Grux_Body_Color.T_Khaimera_Grux_Body_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.28:353][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_MASK02.T_Khaimera_WeaponLoins_MASK02 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.29:074][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Body_N.T_Khaimera_Body_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.29:426][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Body_MASK03.T_Khaimera_Body_MASK03 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.30:076][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_Color.T_Khaimera_WeaponLoins_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.30:834][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Body_MASK02.T_Khaimera_Body_MASK02 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.31:594][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Armslegs_MASK02.T_Khaimera_Armslegs_MASK02 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.32:491][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_RGB.T_Khaimera_WeaponLoins_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.33:354][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Body_Color.T_Khaimera_Body_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.34:130][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_ArmsLegs_Color.T_Khaimera_ArmsLegs_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.34:904][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Special/T_SoilMud2_N.T_SoilMud2_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.35:290][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_2ndInfectedMapNormal.T_2ndInfectedMapNormal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Final
+[2026.04.07-14.13.35:359][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/Textures/Noise/T_NormalNoise.T_NormalNoise (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 19.499759 MB), EncodeSpeed: Final
+[2026.04.07-14.13.35:726][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Wood/T_ChestWood.T_ChestWood (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.36:237][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_MASK01.T_Khaimera_WeaponLoins_MASK01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.36:452][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Skin/T_TilingBone_HighContrast.T_TilingBone_HighContrast (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Final
+[2026.04.07-14.13.36:995][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_ArmsLegs_RGB.T_Khaimera_ArmsLegs_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.37:599][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Metal/T_LightMetal02.T_LightMetal02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.37:908][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Metal/T_Terracota.T_Terracota (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Final
+[2026.04.07-14.13.37:981][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Metal/T_TilingTurqiouse_NRM.T_TilingTurqiouse_NRM (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Final
+[2026.04.07-14.13.38:138][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Metal/T_HadriansWall_RockFaceTiling_D_R.T_HadriansWall_RockFaceTiling_D_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.38:972][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Leather/T_WornLeather_01_N.T_WornLeather_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.39:627][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Leather/T_Dark_Leather.T_Dark_Leather (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.40:029][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Patterns/T_TilingTurqiouse_M.T_TilingTurqiouse_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Final
+[2026.04.07-14.13.40:899][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Leather/T_SmoothLeather_D.T_SmoothLeather_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.41:522][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Skin/T_Pore_Specular.T_Pore_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Final
+[2026.04.07-14.13.42:324][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Special/T_SkinMud.T_SkinMud (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.43:238][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_WeaponLoins_N.T_Khaimera_WeaponLoins_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.43:608][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Wood/T_ChestWood_N.T_ChestWood_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.43:859][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_filter_clouds.T_filter_clouds (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.44:384][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_ArmsLegs_N.T_Khaimera_ArmsLegs_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.44:739][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Body_MASK01.T_Khaimera_Body_MASK01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.44:961][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Global/MaterialLayers/Metal/T_Terracotta_N.T_Terracotta_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Final
+[2026.04.07-14.13.45:377][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Beast_N_Demo.T_Khaimera_Beast_N_Demo (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.46:140][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Khaimera_Body_RGB.T_Khaimera_Body_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2026.04.07-14.13.46:555][681]LogTexture: Display: Building textures: /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Textures/T_Smooth_Gradient_Vertical_A.T_Smooth_Gradient_Vertical_A (TFO_AutoDXT, 64x2048 x1x1x1) (Required Memory Estimate: 21.66659 MB), EncodeSpeed: Final
+[2026.04.07-14.13.46:637][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.13.46:637][682]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.13.46:637][682]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.13.47:098][682]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.13.47:099][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.13.47:099][682]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.13.47:104][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.13.47:111][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.13.47:142][682]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.07-14.13.47:142][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.04.07-14.13.47:145][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.04.07-14.13.47:159][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.04.07-14.13.47:223][683]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.04.07-14.13.53:771][995]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.13.53:779][995]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.13.53:779][995]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.13.53:781][995]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.080 ms (total: 27.226 ms)
+[2026.04.07-14.13.53:781][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.13.53:781][995]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.13.53:784][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003222s)
+[2026.04.07-14.13.53:784][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003254s)
+[2026.04.07-14.13.53:812][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.07-14.13.53:814][995]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.13.53:816][995]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.13.53:816][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.13.53:816][995]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.13.53:816][995]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.13.53:817][995]LogWorldPartition: Display: WorldPartition initialize took 1.301 ms (total: 8.65 sec)
+[2026.04.07-14.13.53:817][995]LogPlayLevel: PIE: World Init took: (0.003055s)
+[2026.04.07-14.13.53:818][995]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.13.53:818][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.13.53:818][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.13.53:818][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.13.53:818][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.13.53:818][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.13.53:821][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.13.53:846][995]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.13.53:846][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.13.53:846][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.13.53:846][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.13.53:847][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.04.07-14.13.53:847][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.04.07-14.13.53:850][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.04.07-14.13.53:850][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.04.07-14.13.53:850][995]LogInit: FAudioDevice initialized with ID 14.
+[2026.04.07-14.13.53:850][995]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.13.53:850][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.07-14.13.53:880][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.13.53:880][995]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.13.53:882][995]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.13.53
+[2026.04.07-14.13.53:882][995]LogWorld: Bringing up level for play took: 0.001317
+[2026.04.07-14.13.53:885][995]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.04.07-14.13.53:886][995]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.53:886][995]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.13.53:886][995]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.13.53:890][995]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.53:890][995]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.13.53:891][995]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.53:891][995]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.13.53:892][995]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.53:892][995]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.13.53:893][995]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.53:893][995]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.13.53:894][995]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.13.53:894][995]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.13.53:894][995]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.13.53:901][995]PIE: Server logged in
+[2026.04.07-14.13.53:903][995]PIE: Play in editor total start time 0.124 seconds.
+[2026.04.07-14.13.57:108][ 17]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.57:108][ 17]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.57:108][ 17]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.57:108][ 17]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.57:108][ 17]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.13.57:108][ 17]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.14.17:016][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.14.17:016][593]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.14.17:016][593]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.14.17:116][593]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.14.17:117][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.14.17:117][593]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.14.17:123][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.14.17:132][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.14.17:165][593]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.07-14.14.17:165][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.04.07-14.14.17:168][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.04.07-14.14.17:178][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.04.07-14.14.17:211][594]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.04.07-14.14.25:392][734]LogScript: Warning: Accessed None trying to read property Unit
+	WI_UnitBattleHUD_C /Engine/Transient.World_15:WI_UnitBattleHUD_C_35
+	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD_C:ExecuteUbergraph_WI_UnitBattleHUD:0050
+[2026.04.07-14.14.42:959][779]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.14.42:966][779]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.14.42:966][779]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.14.42:967][779]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.493 ms (total: 28.720 ms)
+[2026.04.07-14.14.42:967][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.14.42:968][779]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.14.42:971][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003086s)
+[2026.04.07-14.14.42:971][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003129s)
+[2026.04.07-14.14.43:027][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.04.07-14.14.43:029][779]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.14.43:031][779]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.14.43:031][779]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.14.43:031][779]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.14.43:031][779]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.14.43:033][779]LogWorldPartition: Display: WorldPartition initialize took 1.244 ms (total: 8.65 sec)
+[2026.04.07-14.14.43:033][779]LogPlayLevel: PIE: World Init took: (0.003184s)
+[2026.04.07-14.14.43:033][779]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.07-14.14.43:033][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.14.43:033][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.14.43:034][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.14.43:034][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.14.43:034][779]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.14.43:034][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.14.43:034][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.14.43:034][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.14.43:034][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.14.43:034][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.14.43:034][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.14.43:036][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.14.43:059][779]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.14.43:059][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.14.43:059][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.14.43:059][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.14.43:060][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.07-14.14.43:060][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.07-14.14.43:064][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.07-14.14.43:064][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.07-14.14.43:064][779]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.07-14.14.43:064][779]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.14.43:064][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.07-14.14.43:091][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.14.43:091][779]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.14.43:092][779]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.14.43
+[2026.04.07-14.14.43:094][779]LogWorld: Bringing up level for play took: 0.001363
+[2026.04.07-14.14.43:096][779]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.04.07-14.14.43:098][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.14.43:098][779]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.14.43:099][779]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.14.43:102][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.14.43:102][779]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.14.43:103][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.14.43:103][779]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.14.43:104][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.14.43:104][779]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.14.43:104][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.14.43:104][779]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.14.43:105][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.14.43:105][779]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.14.43:105][779]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.14.43:111][779]PIE: Server logged in
+[2026.04.07-14.14.43:113][779]PIE: Play in editor total start time 0.147 seconds.
+[2026.04.07-14.14.45:459][815]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.14.45:459][815]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.14.45:459][815]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.14.45:459][815]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.14.45:459][815]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.14.45:459][815]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.15.04:735][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.15.04:735][330]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.15.04:735][330]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.15.04:827][330]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.15.04:828][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.15.04:829][330]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.15.04:833][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.15.04:848][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.15.04:883][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.07-14.15.04:883][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.04.07-14.15.04:886][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.04.07-14.15.04:895][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.04.07-14.15.05:187][331]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.04.07-14.15.53:057][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.04.07-14.15.53:335][887]LogScript: Warning: Accessed None trying to read property Unit
+	WI_UnitBattleHUD_C /Engine/Transient.World_15:WI_UnitBattleHUD_C_37
+	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD_C:ExecuteUbergraph_WI_UnitBattleHUD:0050
+[2026.04.07-14.16.04:410][541]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.16.04:418][541]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.16.04:418][541]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.16.04:419][541]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.544 ms (total: 30.264 ms)
+[2026.04.07-14.16.04:419][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.16.04:419][541]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.16.04:422][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003177s)
+[2026.04.07-14.16.04:422][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003213s)
+[2026.04.07-14.16.04:452][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.04.07-14.16.04:454][541]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.16.04:456][541]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.16.04:456][541]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.16.04:456][541]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.16.04:456][541]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.16.04:457][541]LogWorldPartition: Display: WorldPartition initialize took 1.245 ms (total: 8.66 sec)
+[2026.04.07-14.16.04:457][541]LogPlayLevel: PIE: World Init took: (0.003324s)
+[2026.04.07-14.16.04:458][541]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.16.04:458][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.16.04:458][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.16.04:458][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.16.04:458][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.16.04:458][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.16.04:463][541]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.16.04:486][541]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.16.04:487][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.16.04:487][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.16.04:487][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.16.04:489][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.04.07-14.16.04:489][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.04.07-14.16.04:491][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.04.07-14.16.04:491][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.04.07-14.16.04:491][541]LogInit: FAudioDevice initialized with ID 16.
+[2026.04.07-14.16.04:491][541]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.16.04:491][541]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.07-14.16.04:516][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.16.04:517][541]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.16.04:518][541]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.16.04
+[2026.04.07-14.16.04:518][541]LogWorld: Bringing up level for play took: 0.001342
+[2026.04.07-14.16.04:521][541]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.04.07-14.16.04:522][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.04:522][541]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.16.04:524][541]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.16.04:527][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.04:527][541]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.16.04:528][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.04:528][541]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.16.04:528][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.04:528][541]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.16.04:530][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.04:530][541]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.16.04:531][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.04:531][541]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.16.04:531][541]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.16.04:537][541]PIE: Server logged in
+[2026.04.07-14.16.04:539][541]PIE: Play in editor total start time 0.122 seconds.
+[2026.04.07-14.16.07:118][568]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.16.07:118][568]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.16.07:118][568]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.16.07:118][568]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.16.07:118][568]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.16.07:118][568]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.16.24:713][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.16.24:713][ 68]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.16.24:713][ 68]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.16.24:810][ 68]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.16.24:811][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.16.24:811][ 68]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.16.24:816][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.16.24:825][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.16.24:856][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.07-14.16.24:856][ 68]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.07-14.16.24:856][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.04.07-14.16.24:860][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.04.07-14.16.24:870][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.04.07-14.16.24:902][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.04.07-14.16.47:608][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3512.227295
+[2026.04.07-14.16.47:776][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.07-14.16.47:776][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3512.377441, Update Interval: 359.888306
+[2026.04.07-14.16.48:522][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.07-14.16.48:794][296]LogScript: Warning: Accessed None trying to read property Unit
+	WI_UnitBattleHUD_C /Engine/Transient.World_15:WI_UnitBattleHUD_C_39
+	Function /Game/TurnBased/Foundational_Components/UI/Widgets/WI_UnitBattleHUD.WI_UnitBattleHUD_C:ExecuteUbergraph_WI_UnitBattleHUD:0050
+[2026.04.07-14.16.58:375][849]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.16.58:383][849]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.16.58:383][849]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.16.58:385][849]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.948 ms (total: 32.212 ms)
+[2026.04.07-14.16.58:385][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.16.58:385][849]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.16.58:388][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002980s)
+[2026.04.07-14.16.58:388][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003011s)
+[2026.04.07-14.16.58:418][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.04.07-14.16.58:422][849]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.16.58:422][849]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.16.58:422][849]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.16.58:422][849]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.16.58:422][849]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.16.58:424][849]LogWorldPartition: Display: WorldPartition initialize took 1.070 ms (total: 8.66 sec)
+[2026.04.07-14.16.58:424][849]LogPlayLevel: PIE: World Init took: (0.002816s)
+[2026.04.07-14.16.58:424][849]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.16.58:424][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.16.58:424][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.16.58:424][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.16.58:424][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.16.58:424][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.16.58:427][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.16.58:451][849]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.16.58:451][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.16.58:451][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.16.58:451][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.16.58:452][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.04.07-14.16.58:452][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.04.07-14.16.58:454][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.04.07-14.16.58:454][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.04.07-14.16.58:454][849]LogInit: FAudioDevice initialized with ID 17.
+[2026.04.07-14.16.58:454][849]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.16.58:454][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.07-14.16.58:480][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.16.58:480][849]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.16.58:482][849]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.16.58
+[2026.04.07-14.16.58:482][849]LogWorld: Bringing up level for play took: 0.001519
+[2026.04.07-14.16.58:485][849]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.04.07-14.16.58:486][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.58:486][849]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.16.58:487][849]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.16.58:490][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.58:490][849]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.16.58:491][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.58:491][849]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.16.58:492][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.58:492][849]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.16.58:493][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.58:493][849]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.16.58:494][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.16.58:494][849]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.16.58:494][849]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.16.58:499][849]PIE: Server logged in
+[2026.04.07-14.16.58:501][849]PIE: Play in editor total start time 0.119 seconds.
+[2026.04.07-14.17.00:754][876]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.00:754][876]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.00:754][876]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.00:754][876]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.00:754][876]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.00:754][876]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.13:201][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.17.13:201][910]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.17.13:201][910]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.17.14:781][910]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.17.14:783][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.17.14:783][910]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.17.14:786][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.17.14:795][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.17.14:824][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.07-14.17.14:824][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.07-14.17.14:824][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.04.07-14.17.14:827][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.04.07-14.17.14:837][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.07-14.17.15:006][911]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.04.07-14.17.17:930][953]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.17.17:937][953]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.17.17:937][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.17.17:940][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.370 ms (total: 34.583 ms)
+[2026.04.07-14.17.17:941][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.17.17:941][953]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.17.17:944][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2026.04.07-14.17.17:944][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003354s)
+[2026.04.07-14.17.17:975][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.04.07-14.17.17:977][953]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.17.17:979][953]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.17.17:979][953]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.17.17:979][953]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.17.17:979][953]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.17.17:980][953]LogWorldPartition: Display: WorldPartition initialize took 1.202 ms (total: 8.66 sec)
+[2026.04.07-14.17.17:980][953]LogPlayLevel: PIE: World Init took: (0.002971s)
+[2026.04.07-14.17.17:981][953]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.17.17:981][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.17.17:981][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.17.17:981][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.17.17:981][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.17.17:981][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.17.17:984][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.17.18:007][953]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.17.18:008][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.17.18:008][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.17.18:008][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.17.18:008][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.07-14.17.18:008][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.07-14.17.18:012][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.07-14.17.18:012][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.07-14.17.18:012][953]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.07-14.17.18:012][953]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.17.18:012][953]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.07-14.17.18:037][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.17.18:037][953]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.17.18:038][953]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.17.18
+[2026.04.07-14.17.18:038][953]LogWorld: Bringing up level for play took: 0.001222
+[2026.04.07-14.17.18:042][953]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.04.07-14.17.18:043][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.18:043][953]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.17.18:044][953]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.17.18:047][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.18:047][953]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.18:048][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.18:048][953]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.18:050][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.18:050][953]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.18:051][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.18:051][953]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.17.18:052][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.18:052][953]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.17.18:052][953]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.17.18:057][953]PIE: Server logged in
+[2026.04.07-14.17.18:060][953]PIE: Play in editor total start time 0.121 seconds.
+[2026.04.07-14.17.20:641][992]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.20:641][992]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.20:641][992]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.20:641][992]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.20:641][992]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.20:641][992]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.26:701][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.17.26:701][ 81]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.17.26:701][ 81]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.17.26:778][ 81]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.17.26:780][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.17.26:780][ 81]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.17.26:787][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.17.26:797][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.17.26:832][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.07-14.17.26:833][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.04.07-14.17.26:835][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.04.07-14.17.26:846][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.04.07-14.17.26:889][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.04.07-14.17.28:026][ 88]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.17.28:035][ 88]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.17.28:035][ 88]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.17.28:037][ 88]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.579 ms (total: 36.162 ms)
+[2026.04.07-14.17.28:037][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.17.28:037][ 88]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.17.28:040][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003662s)
+[2026.04.07-14.17.28:040][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003701s)
+[2026.04.07-14.17.28:071][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.04.07-14.17.28:074][ 88]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.17.28:076][ 88]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.17.28:076][ 88]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.17.28:076][ 88]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.17.28:076][ 88]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.17.28:077][ 88]LogWorldPartition: Display: WorldPartition initialize took 1.684 ms (total: 8.66 sec)
+[2026.04.07-14.17.28:078][ 88]LogPlayLevel: PIE: World Init took: (0.003738s)
+[2026.04.07-14.17.28:079][ 88]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.17.28:079][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.17.28:079][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.17.28:079][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.17.28:079][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.17.28:079][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.17.28:083][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.17.28:107][ 88]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.17.28:107][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.17.28:107][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.17.28:107][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.17.28:108][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.07-14.17.28:108][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.07-14.17.28:111][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.07-14.17.28:111][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.07-14.17.28:111][ 88]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.07-14.17.28:111][ 88]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.17.28:111][ 88]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.07-14.17.28:218][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.17.28:218][ 88]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.17.28:220][ 88]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.17.28
+[2026.04.07-14.17.28:220][ 88]LogWorld: Bringing up level for play took: 0.001285
+[2026.04.07-14.17.28:223][ 88]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.04.07-14.17.28:224][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.28:224][ 88]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.17.28:224][ 88]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.17.28:227][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.28:227][ 88]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.28:229][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.28:229][ 88]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.28:230][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.28:230][ 88]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.28:232][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.28:232][ 88]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.17.28:232][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.28:233][ 88]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.17.28:233][ 88]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.17.28:238][ 88]PIE: Server logged in
+[2026.04.07-14.17.28:240][ 88]PIE: Play in editor total start time 0.205 seconds.
+[2026.04.07-14.17.30:207][116]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.30:207][116]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.30:207][116]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.30:207][116]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.30:207][116]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.30:207][116]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.17.55:570][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.17.55:570][736]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.17.55:571][736]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.17.55:668][736]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.17.55:668][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.17.55:668][736]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.17.55:673][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.17.55:684][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.17.55:716][736]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.07-14.17.55:716][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.04.07-14.17.55:718][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.04.07-14.17.55:728][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.04.07-14.17.55:775][737]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.04.07-14.17.57:835][749]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.07-14.17.57:842][749]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.17.57:842][749]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.17.57:844][749]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.537 ms (total: 37.699 ms)
+[2026.04.07-14.17.57:844][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.17.57:844][749]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.17.57:847][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003073s)
+[2026.04.07-14.17.57:847][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003118s)
+[2026.04.07-14.17.57:877][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.04.07-14.17.57:879][749]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.17.57:881][749]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.17.57:881][749]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.17.57:881][749]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.17.57:881][749]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.17.57:882][749]LogWorldPartition: Display: WorldPartition initialize took 1.104 ms (total: 8.66 sec)
+[2026.04.07-14.17.57:882][749]LogPlayLevel: PIE: World Init took: (0.002949s)
+[2026.04.07-14.17.57:883][749]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.17.57:883][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.17.57:883][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.17.57:883][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.17.57:883][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.17.57:883][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.17.57:886][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.17.57:909][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.17.57:909][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.17.57:909][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.17.57:909][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.17.57:910][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.07-14.17.57:910][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.07-14.17.57:913][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.07-14.17.57:913][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.07-14.17.57:913][749]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.07-14.17.57:913][749]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.17.57:913][749]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.07-14.17.58:169][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.17.58:169][749]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.17.58:170][749]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.17.58
+[2026.04.07-14.17.58:171][749]LogWorld: Bringing up level for play took: 0.001490
+[2026.04.07-14.17.58:174][749]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.04.07-14.17.58:176][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.58:176][749]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.17.58:176][749]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.17.58:179][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.58:179][749]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.58:181][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.58:181][749]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.58:182][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.58:182][749]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.17.58:183][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.58:183][749]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.17.58:183][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.17.58:183][749]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.17.58:184][749]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.17.58:189][749]PIE: Server logged in
+[2026.04.07-14.17.58:192][749]PIE: Play in editor total start time 0.349 seconds.
+[2026.04.07-14.18.00:062][768]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.00:062][768]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.00:062][768]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.00:062][768]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.00:062][768]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.00:062][768]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.00:280][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.18.00:280][770]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.18.00:280][770]LogSlate: Window 'ProjectBlade Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.07-14.18.00:539][770]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.18.00:540][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.18.00:540][770]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.18.00:544][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.18.00:551][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.18.00:583][770]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.07-14.18.00:584][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.07-14.18.00:587][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.07-14.18.00:595][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.04.07-14.18.00:628][771]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.04.07-14.18.04:313][831]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.07-14.18.04:313][831]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.07-14.18.04:315][831]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.475 ms (total: 39.174 ms)
+[2026.04.07-14.18.04:315][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.07-14.18.04:315][831]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.18.04:318][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002911s)
+[2026.04.07-14.18.04:318][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002942s)
+[2026.04.07-14.18.04:343][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.04.07-14.18.04:345][831]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.07-14.18.04:347][831]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.07-14.18.04:347][831]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.07-14.18.04:347][831]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.07-14.18.04:347][831]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.07-14.18.04:349][831]LogWorldPartition: Display: WorldPartition initialize took 1.125 ms (total: 8.66 sec)
+[2026.04.07-14.18.04:349][831]LogPlayLevel: PIE: World Init took: (0.002857s)
+[2026.04.07-14.18.04:349][831]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.07-14.18.04:350][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.07-14.18.04:350][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.07-14.18.04:350][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.07-14.18.04:350][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.07-14.18.04:350][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.07-14.18.04:353][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.07-14.18.04:375][831]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2026.04.07-14.18.04:375][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.07-14.18.04:375][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.07-14.18.04:375][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.07-14.18.04:376][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.04.07-14.18.04:376][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.04.07-14.18.04:379][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.04.07-14.18.04:379][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.04.07-14.18.04:379][831]LogInit: FAudioDevice initialized with ID 21.
+[2026.04.07-14.18.04:379][831]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2026.04.07-14.18.04:379][831]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.07-14.18.04:383][831]LogLoad: Game class is 'GM_BattleGameMode_C'
+[2026.04.07-14.18.04:384][831]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.04.07-15.18.04
+[2026.04.07-14.18.04:384][831]LogWorld: Bringing up level for play took: 0.001356
+[2026.04.07-14.18.04:386][831]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.04.07-14.18.04:388][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.18.04:388][831]LogScript: Warning: Script Msg called by: Aurora_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero1_Child_C_0.CharacterMesh0.Aurora_AnimBlueprint_C_0
+[2026.04.07-14.18.04:388][831]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Aurora'
+[2026.04.07-14.18.04:391][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.18.04:391][831]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_0.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.18.04:392][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.18.04:392][831]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_1.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.18.04:394][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.18.04:394][831]LogScript: Warning: Script Msg called by: Khaimera_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyUnit_Enemy1_Child_C_2.CharacterMesh0.Khaimera_AnimBlueprint_C_0
+[2026.04.07-14.18.04:394][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.18.04:395][831]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero3_Child_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2026.04.07-14.18.04:396][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.04.07-14.18.04:396][831]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PartyUnit_Hero2_Child_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2026.04.07-14.18.04:396][831]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Gideon_Inquisitor'
+[2026.04.07-14.18.04:398][831]PIE: Server logged in
+[2026.04.07-14.18.04:400][831]PIE: Play in editor total start time 0.087 seconds.
+[2026.04.07-14.18.06:674][867]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.06:674][867]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.06:674][867]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.06:674][867]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.06:674][867]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.06:674][867]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.04.07-14.18.15:900][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.18.15:900][348]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.07-14.18.15:900][348]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.07-14.18.15:900][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.18.15:900][348]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.07-14.18.15:905][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.07-14.18.15:912][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.07-14.18.15:939][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.07-14.18.15:939][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.07-14.18.15:940][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.04.07-14.18.15:942][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.04.07-14.18.15:952][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.04.07-14.18.15:986][349]LogPlayLevel: Display: Destroying online subsystem :Context_44
